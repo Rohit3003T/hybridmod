@@ -80,9 +80,9 @@ hybridmod/
 │   ├── providers.tf
 │   ├── main.tf
 │   ├── variables.tf
-│   └── terraform.tfvars       # Local configuration; do not commit
-├── backups/                   # Local backup files; do not commit
-├── restore-test/              # Restore test files; do not commit
+│   └── terraform.tfvars       
+├── backups/                   
+├── restore-test/              
 ├── compose.yaml
 ├── .dockerignore
 └── .gitignore
